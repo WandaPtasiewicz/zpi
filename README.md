@@ -1,1 +1,1 @@
-# zpi
+# Zarządzanie projektów informatycznych
